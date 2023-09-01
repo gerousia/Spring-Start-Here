@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>gerousia</groupId>
-  <artifactId>sq_ch2_ex7</artifactId>
+  <artifactId>sq_ch3_ex1</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>sq_ch2_ex5</name>
+  <name>sq_ch3_ex1</name>
   <url>http://maven.apache.org</url>
 
     <properties>

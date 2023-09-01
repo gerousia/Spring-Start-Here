@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bd916e39-1121-46cd-a34e-47fe7e649d1d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex1/src/main/java/gerousia/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex1/src/main/java/gerousia/beans/Parrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex1/src/main/java/gerousia/beans/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex1/src/main/java/gerousia/config/ProjectConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex1/src/test/java/gerousia/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex2/src/main/java/gerousia/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex2/src/main/java/gerousia/config/ProjectConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex2/src/test/java/gerousia/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex3/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex3/src/main/java/gerousia/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex3/src/main/java/gerousia/beans/Parrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex3/src/main/java/gerousia/beans/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex3/src/main/java/gerousia/config/ProjectConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex3/src/test/java/gerousia/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gerousia/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gerousia/beans/Parrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gerousia/beans/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gerousia/config/ProjectConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gerousia/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex5/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex5/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex5/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex5/src/main/java/gerousia/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex5/src/main/java/gerousia/beans/Parrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex5/src/main/java/gerousia/beans/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex5/src/main/java/gerousia/config/ProjectConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sq_ch3_ex5/src/test/java/gerousia/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sq_ch2_ex7/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sq_ch2_ex7/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sq_ch2_ex7/src/test/java/gerousia/example/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sq_ch2_ex7/src/test/java/gerousia/MainTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Un1MiscEj06ceEnzIZys89AkWu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/G/Documents/CodeProjects/Spring/Spring-Start-Here/sq_ch2_ex6"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\G\Documents\CodeProjects\Spring\Spring-Start-Here\sq_ch3_ex4" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainTest.springContext_autoWiredAnnotationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sq_ch3_ex4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gerousia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="gerousia" />
+      <option name="MAIN_CLASS_NAME" value="gerousia.MainTest" />
+      <option name="METHOD_NAME" value="springContext_autoWiredAnnotationTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MainTest.springContext_autoWiredAnnotationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd916e39-1121-46cd-a34e-47fe7e649d1d" name="Changes" comment="" />
+      <created>1693560485155</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693560485155</updated>
+    </task>
+    <servers />
+  </component>
+</project>
