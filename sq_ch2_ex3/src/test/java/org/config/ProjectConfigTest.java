@@ -43,7 +43,9 @@ public class ProjectConfigTest {
         // Then
         Assert.assertEquals(expectedOutput, actualOutput);
 
+        // Clean-up
         context.close();
+
     }
 
     @Test
@@ -62,6 +64,7 @@ public class ProjectConfigTest {
         // Then
         Assert.assertEquals(expectedOutput, actualOutput);
 
+        // Clean-up
         context.close();
     }
 
@@ -85,6 +88,7 @@ public class ProjectConfigTest {
         // Then
         Assert.assertTrue(actualMessage.contains(expectedMessage));
 
+        // Clean-up
         context.close();
     }
 
@@ -104,6 +108,7 @@ public class ProjectConfigTest {
         // Then
         Assert.assertEquals(expectedOutput, actualOutput);
 
+        // Clean-up
         context.close();
     }
 }
