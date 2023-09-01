@@ -14,4 +14,5 @@ wip
 - Bean lifecycle and JSR-250 Common Annotations:
     - ```@PostConstruct```, instructs Spring to call that method after the constructor finishes its execution.
     - ```@PreDestroy```, signal that the instance is in the process of being removed by the container.
+- ```getBean()``` method to retrieve instances inside the Spring Context. 
 
