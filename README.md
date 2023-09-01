@@ -9,7 +9,7 @@ wip
 - ```@Configuration``` class, a special class used to instruct Spring to do specific actions. i.e. adding beans.
 - Adding instances called *"beans"* to the Spring Context in three different ways:
     - Method-level ```@Beans``` annotation inside the ```@Configuration``` class;
-    - Class-level ```@Component``` and ```@ComponentScan``` annotations;
+    - Class-level ```@Component``` and ```@ComponentScan``` stereotype annotations;
     - and ```registerBeans()``` method.
 - Bean lifecycle and JSR-250 Common Annotations:
     - ```@PostConstruct```, instructs Spring to call that method after the constructor finishes its execution.
