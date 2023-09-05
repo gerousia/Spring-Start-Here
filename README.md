@@ -28,3 +28,22 @@ wip
 - Resolve conflicts when multiple beans of the same type exist:
     - Use ```@Primary``` annotation for default injection.
     - Use ```@Qualifier``` annotation with named beans.
+ 
+
+**Chapter 4** - Using Abstractions
+- Continuation of Dependency Injection (DI) in Chapter 3.
+- Sample of actual implementations on real world applications.
+- Using interfaces to define contracts.
+- Decoupling implementations through abstractions based on structural patterns.
+- Introduction to meta-annotations of ```@Component```:
+    - Use ```@Service``` annotation for service layer.
+    - Use ```@Repository``` annotation for persistence layer.
+
+**Chapter 5** - Bean Scopes and Life Cycle
+- Continuation of Dependency Injection (DI) in Chapter 3.
+- Sample of actual implementations on real world applications.
+- Using interfaces to define contracts.
+- Decoupling implementations through abstractions based on structural patterns.
+- Introduction to meta-annotations of ```@Component```:
+    - Use ```@Service``` annotation for service layer.
+    - Use ```@Repository``` annotation for persistence layer.
