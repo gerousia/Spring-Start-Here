@@ -40,10 +40,11 @@ wip
     - Use ```@Repository``` annotation for persistence layer.
 
 **Chapter 5** - Bean Scopes and Life Cycle
-- Continuation of Dependency Injection (DI) in Chapter 3.
-- Sample of actual implementations on real world applications.
-- Using interfaces to define contracts.
-- Decoupling implementations through abstractions based on structural patterns.
-- Introduction to meta-annotations of ```@Component```:
-    - Use ```@Service``` annotation for service layer.
-    - Use ```@Repository``` annotation for persistence layer.
+- Definition of a Bean
+- The scope of beans defines how the framework manages the object instances.
+- Two bean scopes: singleton and prototype.
+	- With Singleton ```@Scope(BeanDefinition.SINGLETON)```, each instance has a unique name, and using that name you always refer to that specific instance.
+	- With Prototype ```@Scope(BeanDefinition.PROTOTYPE)```, each type hs a unique name associated with it. Spring creates new instace of that type everytime you refer to the bean name.
+- Advantages and disadvantages of both scopes.
+- Configure singleton bean initialization in context through ```@lazy``` and ```@eager``` annotations. By default, a bean is eagerly instantiated
+- Injecting a prototype-scoped bean into a singleton-scoped bean where a singleton instance always uses the same prototype instance, which spring injects when it creates the singleton instance.
