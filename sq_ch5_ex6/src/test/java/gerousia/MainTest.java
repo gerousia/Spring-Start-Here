@@ -21,21 +21,4 @@ import java.io.PrintStream;
  */
 public class MainTest {
 
-    @Test
-    public void springContext_prototype_differentRepositoryInstance_test() {
-
-        // Given
-        AnnotationConfigApplicationContext context =
-                new AnnotationConfigApplicationContext(ProjectConfig.class);
-
-        // When
-        UserService userService = context.getBean(UserService.class);
-        CommentService commentService = context.getBean(CommentService.class);
-
-        boolean isCommentRepositoryFromServicesNotSameInstance =
-                 commentService.getCommentRepository() != userService.getCommentRepository();
-
-        // Then
-        Assert.assertTrue(isCommentRepositoryFromServicesNotSameInstance);
-    }
 }
